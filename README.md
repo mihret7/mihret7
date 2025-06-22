@@ -1,27 +1,10 @@
-# Hi, I'm Mihret 👋
+# Hi there 👋, I'm Mihret Bizuayehu
 
-I'm a passionate **Software Developer** with hands-on experience building dynamic web applications using modern JavaScript technologies.
+Software Developer | 💻 MERN Stack Developer 
 
-## 🛠️ Tech Stack
+- 🔭 I’m currently working on `Netsuh` browser extension  
+- 🌱 I’m learning data science, Power BI, and advanced JavaScript  
+- 💬 Ask me about web development, cybersecurity, or productivity tools  
+- 📫 How to reach me: mihret@example.com  
 
-- **Languages:** JavaScript (ES6+)
-- **Frontend:** React, jQuery, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Full Stack:** MERN (MongoDB, Express, React, Node.js)
-- **APIs:** RESTful API design & integration
-
-## 🚀 What I Do
-
-- Develop scalable and efficient web applications
-- Create interactive and responsive user interfaces
-- Design and build REST APIs for seamless frontend-backend communication
-- Collaborate on open source projects and contribute to the developer community
-
-
-## 📫 Let's Connect
-
-- GitHub: [mihret7](https://github.com/mihret7)
-
----
-
-Feel free to check out my repositories or reach out for collaboration!
+![Mihret's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihret7&show_icons=true&theme=radical)
